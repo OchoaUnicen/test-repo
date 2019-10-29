@@ -17,6 +17,12 @@ footer {
     font-family: 'Courier New', Courier, monospace;
 
 
+}
+.navbar {
 
+
+
+    display: flex;
+    justify-content: space-around;
 
 }
